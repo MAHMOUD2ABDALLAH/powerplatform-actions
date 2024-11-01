@@ -139,3 +139,6 @@ prior to commiting the changes.
 ### How to make GitHub Actions and Build Tools compatible with latest PAC CLI?
 
 [Please refer steps in Cli-Wrapper](https://github.com/microsoft/powerplatform-cli-wrapper/blob/main/README.md)
+              - name: powerplatform-actions
+                uses: microsoft/powerplatform-actions@v1.7.0
+            
